@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.0
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.baru.CSharp", "UnityVS.baru.CSharp.csproj", "{463011D5-6E86-D326-BD1B-BA3B13B58B0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{463011D5-6E86-D326-BD1B-BA3B13B58B0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{463011D5-6E86-D326-BD1B-BA3B13B58B0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{463011D5-6E86-D326-BD1B-BA3B13B58B0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{463011D5-6E86-D326-BD1B-BA3B13B58B0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

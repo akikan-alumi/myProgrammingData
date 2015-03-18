@@ -1,0 +1,5 @@
+kadaiUnityに関しましては、
+原因が不明ですがコンソールが消えない現象が起きています。
+現在の私の技術力ではこれを解消する手段は見つかりませんでした。
+そのためkadaUnityにつきましてはUnityGameUploaderでのプレイを推奨します。
+http://unitygameuploader.jpn.org/game/2883.html

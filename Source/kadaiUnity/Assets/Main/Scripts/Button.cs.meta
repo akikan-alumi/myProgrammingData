@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: f671644db4bf9d544b365353a03fddba
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - pin: {fileID: 8300000, guid: 5e0f3f110ded286478576ead8d302ece, type: 3}
+  - pon: {fileID: 8300000, guid: cf6fddcf0aa3953479058c04250cda7b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
