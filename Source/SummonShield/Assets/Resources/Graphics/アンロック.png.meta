@@ -1,0 +1,322 @@
+fileFormatVersion: 2
+guid: 5ca8c554b42f6874db10bdfb5c799967
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "\u30A2\u30F3\u30ED\u30C3\u30AF_0"
+    21300002: "\u30A2\u30F3\u30ED\u30C3\u30AF_1"
+    21300004: "\u30A2\u30F3\u30ED\u30C3\u30AF_2"
+    21300006: "\u30A2\u30F3\u30ED\u30C3\u30AF_3"
+    21300008: "\u30A2\u30F3\u30ED\u30C3\u30AF_4"
+    21300010: "\u30A2\u30F3\u30ED\u30C3\u30AF_5"
+    21300012: "\u30A2\u30F3\u30ED\u30C3\u30AF_6"
+    21300014: "\u30A2\u30F3\u30ED\u30C3\u30AF_7"
+    21300016: "\u30A2\u30F3\u30ED\u30C3\u30AF_8"
+    21300018: "\u30A2\u30F3\u30ED\u30C3\u30AF_9"
+    21300020: "\u30A2\u30F3\u30ED\u30C3\u30AF_10"
+    21300022: "\u30A2\u30F3\u30ED\u30C3\u30AF_11"
+    21300024: "\u30A2\u30F3\u30ED\u30C3\u30AF_12"
+    21300026: "\u30A2\u30F3\u30ED\u30C3\u30AF_13"
+    21300028: "\u30A2\u30F3\u30ED\u30C3\u30AF_14"
+    21300030: "\u30A2\u30F3\u30ED\u30C3\u30AF_15"
+    21300032: "\u30A2\u30F3\u30ED\u30C3\u30AF_16"
+    21300034: "\u30A2\u30F3\u30ED\u30C3\u30AF_17"
+    21300036: "\u30A2\u30F3\u30ED\u30C3\u30AF_18"
+    21300038: "\u30A2\u30F3\u30ED\u30C3\u30AF_19"
+    21300040: "\u30A2\u30F3\u30ED\u30C3\u30AF_20"
+    21300042: "\u30A2\u30F3\u30ED\u30C3\u30AF_21"
+    21300044: "\u30A2\u30F3\u30ED\u30C3\u30AF_22"
+    21300046: "\u30A2\u30F3\u30ED\u30C3\u30AF_23"
+    21300048: "\u30A2\u30F3\u30ED\u30C3\u30AF_24"
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: "\u30A2\u30F3\u30ED\u30C3\u30AF_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u30A2\u30F3\u30ED\u30C3\u30AF_1"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u30A2\u30F3\u30ED\u30C3\u30AF_2"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u30A2\u30F3\u30ED\u30C3\u30AF_3"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u30A2\u30F3\u30ED\u30C3\u30AF_4"
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u30A2\u30F3\u30ED\u30C3\u30AF_5"
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u30A2\u30F3\u30ED\u30C3\u30AF_6"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u30A2\u30F3\u30ED\u30C3\u30AF_7"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u30A2\u30F3\u30ED\u30C3\u30AF_8"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u30A2\u30F3\u30ED\u30C3\u30AF_9"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u30A2\u30F3\u30ED\u30C3\u30AF_10"
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u30A2\u30F3\u30ED\u30C3\u30AF_11"
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u30A2\u30F3\u30ED\u30C3\u30AF_12"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u30A2\u30F3\u30ED\u30C3\u30AF_13"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u30A2\u30F3\u30ED\u30C3\u30AF_14"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u30A2\u30F3\u30ED\u30C3\u30AF_15"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u30A2\u30F3\u30ED\u30C3\u30AF_16"
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u30A2\u30F3\u30ED\u30C3\u30AF_17"
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u30A2\u30F3\u30ED\u30C3\u30AF_18"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u30A2\u30F3\u30ED\u30C3\u30AF_19"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u30A2\u30F3\u30ED\u30C3\u30AF_20"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u30A2\u30F3\u30ED\u30C3\u30AF_21"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u30A2\u30F3\u30ED\u30C3\u30AF_22"
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u30A2\u30F3\u30ED\u30C3\u30AF_23"
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u30A2\u30F3\u30ED\u30C3\u30AF_24"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
