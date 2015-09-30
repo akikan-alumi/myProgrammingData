@@ -1,9 +1,9 @@
-# myProgrammingData
+﻿# myProgrammingData
 myProgrammingData
 
 この中には私が今まで作ったプログラム群を入れていきます。
 PaneponCloneはC++とDxライブラリを利用しています。
-それ以外のプロジェクトはすべてUnity＋C#バージョン4.6とそれ以前のバージョンで作っております。
+それ以外のプロジェクトはすべてUnity＋C#バージョン5.1.1とそれ以前のバージョンで作っております。
 
 SummonShieldについてはgithubを用いて４人共同開発を行いました。
 私が担当したところは以下のとおりです。
