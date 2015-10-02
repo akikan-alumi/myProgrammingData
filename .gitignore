@@ -1,11 +1,11 @@
-# ---------------[ Unity generated ]------------------ #
+# ---------------[ Unity generated ]-------------------- #
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
 UnityGenerated/
 ProjectSettings/*.asset
 
-# ----[ Visual Studio / MonoDevelop generated ]------- #
+# ----[ Visual Studio / MonoDevelop generated ]--------- #
 
 ExportedObj/
 *.svd
@@ -28,6 +28,6 @@ Icon?
 ehthumbs.db
 Thumbs.db
 
-# -------------[ Build ]------------------------ #
+# -------------[ Build ]------------------------------- #
 *.html
 *.unity3d
